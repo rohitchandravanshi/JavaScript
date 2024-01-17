@@ -5,9 +5,9 @@
 
 // myfunction();
 
-// function sum (x , y){
-//     console.log(x+y);
-// }
+function sum (x , y){
+    console.log(x+y);
+}
 
 // function sum (x , y){
 //    s = x + y;
@@ -18,9 +18,9 @@
 // let val = sum(2, 3);
 // console.log(val);
 
-function sum(x, y) {
-    s = (x + y);
-    return s;
-}
+// function sum(x, y) {
+//     s = (x + y);
+//     return s;
+// }
 
-console.log(sum(4,5));
+// console.log(sum(4,5));
