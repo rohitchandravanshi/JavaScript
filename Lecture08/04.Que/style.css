@@ -1,0 +1,19 @@
+#box{
+    background-color: rgb(126, 89, 87);
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+
+#btn{
+    background-color: rgb(211, 237, 237);
+    color: rgb(63, 38, 38);
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    margin: auto;
+}

@@ -1,0 +1,15 @@
+#bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+button{
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color: dimgray;
+    font-size: 20px;
+    font-weight: 300;
+}
